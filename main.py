@@ -14,7 +14,7 @@ def maker():
     help_view = Toplevel(window)
     help_view.geometry("300x50")
     help_view.title("만든이")
-    lb = Label(help_view,text = "강윤호가 만든 메모장입니다.")
+    lb = Label(help_view,text = "장근수가 만든 메모장입니다.")
     lb.pack()
 
 window = Tk()
